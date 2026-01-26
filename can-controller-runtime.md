@@ -4,7 +4,7 @@
 
 *Prepared as an independent technical reference.*
 
-*This document is a personal technical reference documenting validated operating behavior and baseline configuration from a completed CAN network project.*
+*This document is a personal technical reference for CAN controller runtime behavior, error handling, and firmware architecture in embedded systems.*
 
 ---
 

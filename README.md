@@ -6,7 +6,7 @@ The material is not intended to be a tutorial, textbook, or original theoretical
 
 Notes are organized to support long-term reuse alongside embedded firmware development and system-level debugging.
 
-## Contents
+### Contents
 
 - CAN bring-up and IOC configuration reference  
 - bxCAN controller runtime behavior and error handling  
@@ -14,7 +14,7 @@ Notes are organized to support long-term reuse alongside embedded firmware devel
 - CAN bit-timing heuristics and configuration patterns  
 - Validated operating baseline and closure summary  
 
-## Intended Use
+### Intended Use
 
 These notes are intended as a personal engineering reference for:
 

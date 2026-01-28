@@ -27,4 +27,9 @@ They prioritize clarity, traceability, and practical engineering behavior over f
 
 ---
 
+*Author: Percival Segui*
+
+*Independent engineering project record*
+
 *These notes reflect working reference material developed through hands-on experimentation and verification.*
+
